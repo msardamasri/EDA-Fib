@@ -1,7 +1,7 @@
 # EDA-Fib
 
 Pràctica de l'assignatura de EDA - 
-*Nota Total -> Entre els 15 primers*
+*Nota total del projecte -> 9,2*
 
 ### Realitzat per:
 
